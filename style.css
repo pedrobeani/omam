@@ -1,0 +1,14 @@
+body{
+	background-color: purple;
+}
+p{
+	color: yellow;
+	background-color: green;
+}
+#linha{
+	background-color: #000;
+	color: #FFF;
+}
+.pequenas{
+	font-size: 5px;
+}
